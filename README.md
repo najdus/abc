@@ -1,2 +1,1 @@
-# abc
-przykład
+## Języki programowania - C
